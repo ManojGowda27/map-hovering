@@ -1,3 +1,7 @@
+body {
+  width: 30%;
+  height: 200px;
+}
 .mapdiv {
   width: 30%;
   margin: auto;
